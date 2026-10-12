@@ -49,4 +49,4 @@ El programa mostrará:
 3. Tabla comparativa con el cálculo de aceleración (Speedup = Ts / Tp)
 
 ## Autor
-Sebastián - Universidad Politécnica Salesiana - 7mo Semestre
+Sebastian Verdugo - Universidad Politécnica Salesiana - 8vo Semestre
