@@ -10,10 +10,6 @@ bin/
 .project
 .classpath
 
-# Directorio de datos
-data/
-*.txt
-
 # Archivos temporales del sistema
 .DS_Store
 Thumbs.db
