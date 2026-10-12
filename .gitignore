@@ -1,0 +1,19 @@
+# Archivos binarios compilados
+bin/
+*.class
+
+# IDE y configuración de entorno
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Directorio de datos
+data/
+*.txt
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
